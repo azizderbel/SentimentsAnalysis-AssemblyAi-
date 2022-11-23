@@ -1,1 +1,1 @@
-API_KEY = "d691abb413c64599bce85ae83f37c483"
+API_KEY = "copy your own secret key"
